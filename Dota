@@ -1,0 +1,59 @@
+<?xml version = "1.1" encoding="UTF-8" ?>
+<OrganizationCatalog>
+	<Organization>
+		<name>Apple</name>
+		<coordinates>
+			<x>4.0001</x>
+			<y>5.0000898</y>
+		</coordinates>
+		<creationDate>Tue Apr 25 00:00:02 MSK 2023</creationDate>
+		<annualTurnover>3</annualTurnover>
+		<employeesCount>545</employeesCount>
+		<type>PRIVATE_LIMITED_COMPANY</type>
+		<officialAddress>
+			<zipCode>Тут будет улица, а не цифры</zipCode>
+		</officialAddress>
+	</Organization>
+	<Organization>
+		<name>Ap</name>
+		<coordinates>
+			<x>4.0001</x>
+			<y>5.0000898</y>
+		</coordinates>
+		<creationDate>Tue Apr 25 00:00:02 MSK 2023</creationDate>
+		<annualTurnover>1</annualTurnover>
+		<employeesCount>545</employeesCount>
+		<type>PRIVATE_LIMITED_COMPANY</type>
+		<officialAddress>
+			<zipCode>Тут будет улица, а не цифры</zipCode>
+		</officialAddress>
+	</Organization>
+	<Organization>
+		<name>Juan</name>
+		<coordinates>
+			<x>4.0001</x>
+			<y>5.0000898</y>
+		</coordinates>
+		<creationDate>Tue Apr 25 00:00:02 MSK 2023</creationDate>
+		<annualTurnover>3</annualTurnover>
+		<employeesCount>545</employeesCount>
+		<type>PRIVATE_LIMITED_COMPANY</type>
+		<officialAddress>
+			<zipCode>Тут будет улица, а не цифры</zipCode>
+		</officialAddress>
+	</Organization>
+	<Organization>
+		<name>Dota</name>
+		<coordinates>
+			<x>1.0</x>
+			<y>2.0</y>
+		</coordinates>
+		<creationDate>Tue Apr 25 00:00:19 MSK 2023</creationDate>
+		<annualTurnover>2</annualTurnover>
+		<employeesCount>1000</employeesCount>
+		<type>TRUST</type>
+		<officialAddress>
+			<zipCode>PPP</zipCode>
+		</officialAddress>
+	</Organization>
+</OrganizationCatalog>
